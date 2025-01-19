@@ -15,7 +15,7 @@ A simple Python script that monitors keystrokes on macOS and Windows. This scrip
 
 1. **Clone the repository** (or download the ZIP):
     ```bash
-    git clone https://github.com/your-username/keystroke-counter.git
+    git clone https://github.com/devvrat-hans/keystroke-counter.git
     ```
 
 2. **Navigate to the project directory**:
